@@ -1,2 +1,7 @@
 Hello, Git!
+<<<<<<< HEAD
 This is an update.
+=======
+this is the updated file
+>>>>>>> 9c87d102225397f1c1e702d807ff830a5fe1878f
+This change is in the new-feature branch.
